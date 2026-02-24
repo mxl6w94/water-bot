@@ -1,0 +1,54 @@
+---
+url: "https://washresources.cawst.org/en/topics/7145b9de/program-implementation"
+title: "Program Implementation | WASH Resources"
+---
+
+[![CAWST](https://washresources.cawst.org/_nuxt/cawst_logo.D7Kptj99.png)](https://www.cawst.org/)
+
+[WASH Resources](https://washresources.cawst.org/en)
+
+[Home](https://washresources.cawst.org/en) [Explore](https://washresources.cawst.org/en/explore) [Consulting Services](https://www.cawst.org/consultations) [Training](https://cawst.training/?utm_source=washresources&utm_medium=referral)
+
+Change language![Language Menu](data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20640%20512'%20fill='white'%3e%3cpath%20d='M0%20128C0%2092.7%2028.7%2064%2064%2064l192%200%2048%200%2016%200%20256%200c35.3%200%2064%2028.7%2064%2064l0%20256c0%2035.3-28.7%2064-64%2064l-256%200-16%200-48%200L64%20448c-35.3%200-64-28.7-64-64L0%20128zm320%200l0%20256%20256%200%200-256-256%200zM178.3%20175.9c-3.2-7.2-10.4-11.9-18.3-11.9s-15.1%204.7-18.3%2011.9l-64%20144c-4.5%2010.1%20.1%2021.9%2010.2%2026.4s21.9-.1%2026.4-10.2l8.9-20.1%2073.6%200%208.9%2020.1c4.5%2010.1%2016.3%2014.6%2026.4%2010.2s14.6-16.3%2010.2-26.4l-64-144zM160%20233.2L179%20276l-38%200%2019-42.8zM448%20164c11%200%2020%209%2020%2020l0%204%2044%200%2016%200c11%200%2020%209%2020%2020s-9%2020-20%2020l-2%200-1.6%204.5c-8.9%2024.4-22.4%2046.6-39.6%2065.4c.9%20.6%201.8%201.1%202.7%201.6l18.9%2011.3c9.5%205.7%2012.5%2018%206.9%2027.4s-18%2012.5-27.4%206.9l-18.9-11.3c-4.5-2.7-8.8-5.5-13.1-8.5c-10.6%207.5-21.9%2014-34%2019.4l-3.6%201.6c-10.1%204.5-21.9-.1-26.4-10.2s.1-21.9%2010.2-26.4l3.6-1.6c6.4-2.9%2012.6-6.1%2018.5-9.8l-12.2-12.2c-7.8-7.8-7.8-20.5%200-28.3s20.5-7.8%2028.3%200l14.6%2014.6%20.5%20.5c12.4-13.1%2022.5-28.3%2029.8-45L448%20228l-72%200c-11%200-20-9-20-20s9-20%2020-20l52%200%200-4c0-11%209-20%2020-20z'/%3e%3c/svg%3e)
+
+EnglishEspañolFrançais
+
+Search icon [Stay Connected](https://www.cawst.org/subscribe)
+
+Open user menu
+
+Create your profile to help us better support you and your WASH needs!
+
+Sign in / Register
+
+![](data:image/svg+xml,%3c?xml%20version=%271.0%27%20encoding=%27UTF-8%27%20standalone=%27no%27?%3e%3c!--%20Created%20with%20Inkscape%20(http://www.inkscape.org/)%20--%3e%3csvg%20xmlns:dc=%27http://purl.org/dc/elements/1.1/%27%20xmlns:cc=%27http://creativecommons.org/ns%23%27%20xmlns:rdf=%27http://www.w3.org/1999/02/22-rdf-syntax-ns%23%27%20xmlns:svg=%27http://www.w3.org/2000/svg%27%20xmlns=%27http://www.w3.org/2000/svg%27%20xmlns:sodipodi=%27http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd%27%20xmlns:inkscape=%27http://www.inkscape.org/namespaces/inkscape%27%20width=%2720%27%20height=%2720%27%20viewBox=%270%200%205.2916665%205.2916668%27%20version=%271.1%27%20id=%27svg1511%27%20inkscape:version=%270.92.4%20(5da689c313,%202019-01-14)%27%20sodipodi:docname=%27Cross_icon_(white).svg%27%3e%3cdefs%20id=%27defs1505%27%20/%3e%3csodipodi:namedview%20id=%27base%27%20pagecolor=%27%23ffffff%27%20bordercolor=%27%23666666%27%20borderopacity=%271.0%27%20inkscape:pageopacity=%270.0%27%20inkscape:pageshadow=%272%27%20inkscape:zoom=%2711.2%27%20inkscape:cx=%275.8208421%27%20inkscape:cy=%279.369501%27%20inkscape:document-units=%27mm%27%20inkscape:current-layer=%27layer1%27%20showgrid=%27false%27%20units=%27px%27%20inkscape:snap-page=%27true%27%20inkscape:window-width=%271366%27%20inkscape:window-height=%27711%27%20inkscape:window-x=%270%27%20inkscape:window-y=%2730%27%20inkscape:window-maximized=%271%27%20/%3e%3cmetadata%20id=%27metadata1508%27%3e%3crdf:RDF%3e%3ccc:Work%20rdf:about=%27%27%3e%3cdc:format%3eimage/svg+xml%3c/dc:format%3e%3cdc:type%20rdf:resource=%27http://purl.org/dc/dcmitype/StillImage%27%20/%3e%3cdc:title%3e%3c/dc:title%3e%3c/cc:Work%3e%3c/rdf:RDF%3e%3c/metadata%3e%3cg%20inkscape:label=%27Layer%201%27%20inkscape:groupmode=%27layer%27%20id=%27layer1%27%20transform=%27translate(0,-291.70832)%27%3e%3cg%20id=%27g2847%27%20transform=%27matrix(1.360943,0,0,1.360943,-0.95499501,-106.24507)%27%20style=%27stroke:%23ffffff%27%3e%3cpath%20inkscape:connector-curvature=%270%27%20id=%27path2822%27%20d=%27m%200.93046045,292.63878%203.43074575,3.43074%27%20style=%27fill:none;stroke:%23ffffff;stroke-width:0.45291495;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1%27%20/%3e%3cpath%20style=%27fill:none;stroke:%23ffffff;stroke-width:0.45291495;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1%27%20d=%27m%204.3612062,292.63878%20-3.43074575,3.43074%27%20id=%27path2843%27%20inkscape:connector-curvature=%270%27%20/%3e%3c/g%3e%3c/g%3e%3c/svg%3e)
+
+Open main menu
+
+Create your profile to help us better support you and your WASH needs!
+
+Sign in / Register
+
+![](data:image/svg+xml,%3c?xml%20version=%271.0%27%20encoding=%27UTF-8%27%20standalone=%27no%27?%3e%3c!--%20Created%20with%20Inkscape%20(http://www.inkscape.org/)%20--%3e%3csvg%20xmlns:dc=%27http://purl.org/dc/elements/1.1/%27%20xmlns:cc=%27http://creativecommons.org/ns%23%27%20xmlns:rdf=%27http://www.w3.org/1999/02/22-rdf-syntax-ns%23%27%20xmlns:svg=%27http://www.w3.org/2000/svg%27%20xmlns=%27http://www.w3.org/2000/svg%27%20xmlns:sodipodi=%27http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd%27%20xmlns:inkscape=%27http://www.inkscape.org/namespaces/inkscape%27%20width=%2720%27%20height=%2720%27%20viewBox=%270%200%205.2916665%205.2916668%27%20version=%271.1%27%20id=%27svg1511%27%20inkscape:version=%270.92.4%20(5da689c313,%202019-01-14)%27%20sodipodi:docname=%27Cross_icon_(white).svg%27%3e%3cdefs%20id=%27defs1505%27%20/%3e%3csodipodi:namedview%20id=%27base%27%20pagecolor=%27%23ffffff%27%20bordercolor=%27%23666666%27%20borderopacity=%271.0%27%20inkscape:pageopacity=%270.0%27%20inkscape:pageshadow=%272%27%20inkscape:zoom=%2711.2%27%20inkscape:cx=%275.8208421%27%20inkscape:cy=%279.369501%27%20inkscape:document-units=%27mm%27%20inkscape:current-layer=%27layer1%27%20showgrid=%27false%27%20units=%27px%27%20inkscape:snap-page=%27true%27%20inkscape:window-width=%271366%27%20inkscape:window-height=%27711%27%20inkscape:window-x=%270%27%20inkscape:window-y=%2730%27%20inkscape:window-maximized=%271%27%20/%3e%3cmetadata%20id=%27metadata1508%27%3e%3crdf:RDF%3e%3ccc:Work%20rdf:about=%27%27%3e%3cdc:format%3eimage/svg+xml%3c/dc:format%3e%3cdc:type%20rdf:resource=%27http://purl.org/dc/dcmitype/StillImage%27%20/%3e%3cdc:title%3e%3c/dc:title%3e%3c/cc:Work%3e%3c/rdf:RDF%3e%3c/metadata%3e%3cg%20inkscape:label=%27Layer%201%27%20inkscape:groupmode=%27layer%27%20id=%27layer1%27%20transform=%27translate(0,-291.70832)%27%3e%3cg%20id=%27g2847%27%20transform=%27matrix(1.360943,0,0,1.360943,-0.95499501,-106.24507)%27%20style=%27stroke:%23ffffff%27%3e%3cpath%20inkscape:connector-curvature=%270%27%20id=%27path2822%27%20d=%27m%200.93046045,292.63878%203.43074575,3.43074%27%20style=%27fill:none;stroke:%23ffffff;stroke-width:0.45291495;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1%27%20/%3e%3cpath%20style=%27fill:none;stroke:%23ffffff;stroke-width:0.45291495;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1%27%20d=%27m%204.3612062,292.63878%20-3.43074575,3.43074%27%20id=%27path2843%27%20inkscape:connector-curvature=%270%27%20/%3e%3c/g%3e%3c/g%3e%3c/svg%3e)
+
+* * *
+
+# Explore Program Implementation
+
+Gallery viewGalleryList viewList
+
+![](data:image/svg+xml,%3c?xml%20version=%271.0%27%20encoding=%27UTF-8%27%20standalone=%27no%27?%3e%3c!--%20Created%20with%20Inkscape%20(http://www.inkscape.org/)%20--%3e%3csvg%20xmlns:dc=%27http://purl.org/dc/elements/1.1/%27%20xmlns:cc=%27http://creativecommons.org/ns%23%27%20xmlns:rdf=%27http://www.w3.org/1999/02/22-rdf-syntax-ns%23%27%20xmlns:svg=%27http://www.w3.org/2000/svg%27%20xmlns=%27http://www.w3.org/2000/svg%27%20xmlns:sodipodi=%27http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd%27%20xmlns:inkscape=%27http://www.inkscape.org/namespaces/inkscape%27%20width=%2720%27%20height=%2720%27%20viewBox=%270%200%205.2916665%205.2916668%27%20version=%271.1%27%20id=%27svg1511%27%20inkscape:version=%270.92.4%20(5da689c313,%202019-01-14)%27%20sodipodi:docname=%27Cross_icon_(white).svg%27%3e%3cdefs%20id=%27defs1505%27%20/%3e%3csodipodi:namedview%20id=%27base%27%20pagecolor=%27%23ffffff%27%20bordercolor=%27%23666666%27%20borderopacity=%271.0%27%20inkscape:pageopacity=%270.0%27%20inkscape:pageshadow=%272%27%20inkscape:zoom=%2711.2%27%20inkscape:cx=%275.8208421%27%20inkscape:cy=%279.369501%27%20inkscape:document-units=%27mm%27%20inkscape:current-layer=%27layer1%27%20showgrid=%27false%27%20units=%27px%27%20inkscape:snap-page=%27true%27%20inkscape:window-width=%271366%27%20inkscape:window-height=%27711%27%20inkscape:window-x=%270%27%20inkscape:window-y=%2730%27%20inkscape:window-maximized=%271%27%20/%3e%3cmetadata%20id=%27metadata1508%27%3e%3crdf:RDF%3e%3ccc:Work%20rdf:about=%27%27%3e%3cdc:format%3eimage/svg+xml%3c/dc:format%3e%3cdc:type%20rdf:resource=%27http://purl.org/dc/dcmitype/StillImage%27%20/%3e%3cdc:title%3e%3c/dc:title%3e%3c/cc:Work%3e%3c/rdf:RDF%3e%3c/metadata%3e%3cg%20inkscape:label=%27Layer%201%27%20inkscape:groupmode=%27layer%27%20id=%27layer1%27%20transform=%27translate(0,-291.70832)%27%3e%3cg%20id=%27g2847%27%20transform=%27matrix(1.360943,0,0,1.360943,-0.95499501,-106.24507)%27%20style=%27stroke:%23ffffff%27%3e%3cpath%20inkscape:connector-curvature=%270%27%20id=%27path2822%27%20d=%27m%200.93046045,292.63878%203.43074575,3.43074%27%20style=%27fill:none;stroke:%23ffffff;stroke-width:0.45291495;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1%27%20/%3e%3cpath%20style=%27fill:none;stroke:%23ffffff;stroke-width:0.45291495;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1%27%20d=%27m%204.3612062,292.63878%20-3.43074575,3.43074%27%20id=%27path2843%27%20inkscape:connector-curvature=%270%27%20/%3e%3c/g%3e%3c/g%3e%3c/svg%3e)
+
+Microsoft Copilot Studio
+
+![](https://washresources.cawst.org/_nuxt/cawst_logo-drop_white.DdlxqVHv.png)
+
+## About CAWST
+
+CAWST is a Canadian charity and licensed engineering firm. We address the global need for safe drinking water and sanitation by building local knowledge and skills on household solutions people can implement themselves.
+
+[Learn more](https://www.cawst.org/) [Stay Connected](https://www.cawst.org/subscribe)
+
+[Home](https://washresources.cawst.org/en) [Explore](https://washresources.cawst.org/en/explore) [Consulting Services](https://www.cawst.org/consultations) [Training](https://cawst.training/)
+
+[Terms of use](https://www.cawst.org/privacy-policy-and-terms?lang=en#terms-of-usage-page) [Privacy policy](https://www.cawst.org/privacy-policy-and-terms?lang=en)
