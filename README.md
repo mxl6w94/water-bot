@@ -26,7 +26,7 @@ WHO/UNICEF Joint Monitoring Programme (JMP) Global WASH Data Portal: Global wate
 
 CAWST WASH Education and Training Resources: Guides for household water treatment and emergency batch chlorination. https://washresources.cawst.org/en
 
-Appropedia (Water Purification Wiki): Open-source wiki for DIY and low-cost water filtration methods. https://www.appropedia.org/Point-of-use\_water\_treatment
+CRAWLED-michael Appropedia (Water Purification Wiki): Open-source wiki for DIY and low-cost water filtration methods. https://www.appropedia.org/Point-of-use\_water\_treatment
 
 EPA Drinking Water Treatability Database (TDB): Technical database detailing over 35 treatment processes for regulated and unregulated contaminants. https://www.epa.gov/water-research/drinking-water-treatability-database-tdb
 
