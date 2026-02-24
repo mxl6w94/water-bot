@@ -32,3 +32,6 @@ EPA Drinking Water Treatability Database (TDB): Technical database detailing ove
 Crawl tool: fire crawl
 
 Database:supabase
+
+# reminder of implimetation:
+needs chunking for the RAG implimentation
