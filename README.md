@@ -30,7 +30,7 @@ CRAWLED-michael: Appropedia (Water Purification Wiki): Open-source wiki for DIY 
 
 EPA Drinking Water Treatability Database (TDB): Technical database detailing over 35 treatment processes for regulated and unregulated contaminants. https://www.epa.gov/water-research/drinking-water-treatability-database-tdb
 
-FDA - Water Safety During Power Outage: https://www.fda.gov/food/buy-store-serve-safe-food/food-and-water-safety-during-power-outages-and-floods#if 
+CRAWLED-ColeU: FDA - Water Safety During Power Outage: https://www.fda.gov/food/buy-store-serve-safe-food/food-and-water-safety-during-power-outages-and-floods#if 
 
 CRAWLED-ColeU: CDC - Emergency Water Storage: https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html 
 
@@ -40,14 +40,15 @@ CRAWLED-ColeU: Ready.gov - General Water Knowledge (site): https://www.ready.gov
 
 CRAWLED-ColeU: EPA - Emergency Water Disinfection: https://www.epa.gov/ground-water-and-drinking-water/emergency-disinfection-drinking-water 
 
-FDA - Water and Flood tips: https://www.fda.gov/food/food-safety-during-emergencies/floods-key-tips-consumers-about-food-and-water-safety 
+CRAWLED-ColeU: FDA - Water and Flood tips: https://www.fda.gov/food/food-safety-during-emergencies/floods-key-tips-consumers-about-food-and-water-safety 
 
-USDA - Water Safety: https://www.fns.usda.gov/fs/water-safety 
+CRAWLED-ColeU: USDA - Emergency Drinking Water (PDF - Booklet): https://www.ams.usda.gov/sites/default/files/media/AA_20332D_Water_Drinking_Emergency.pdf
 
-USDA - Emergency Drinking Water (PDF - Booklet): https://www.ams.usda.gov/sites/default/files/media/AA_20332D_Water_Drinking_Emergency.pdf
+# Training Data Disregarded (with Reason)
 
+USDA - Water Safety: https://www.fns.usda.gov/fs/water-safety - Not used due to lack of useful information over other sources already crawled. If anyone disagrees with this, feel free to reinstate - Cole U.
 
-# tools
+# Tools
 
 Crawl tool: fire crawl
 
