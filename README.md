@@ -32,13 +32,13 @@ EPA Drinking Water Treatability Database (TDB): Technical database detailing ove
 
 FDA - Water Safety During Power Outage: https://www.fda.gov/food/buy-store-serve-safe-food/food-and-water-safety-during-power-outages-and-floods#if 
 
-CDC - Emergency Water Storage: https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html 
+CRAWLED-ColeU: CDC - Emergency Water Storage: https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html 
 
-CDC - Safe Water Storage: https://www.cdc.gov/global-water-sanitation-hygiene/about/about-safe-water-storage.html 
+CRAWLED-ColeU: CDC - Safe Water Storage: https://www.cdc.gov/global-water-sanitation-hygiene/about/about-safe-water-storage.html 
 
-Ready.gov - General Water Knowledge (site): https://www.ready.gov/water 
+CRAWLED-ColeU: Ready.gov - General Water Knowledge (site): https://www.ready.gov/water 
 
-EPA - Emergency Water Disinfection: https://www.epa.gov/ground-water-and-drinking-water/emergency-disinfection-drinking-water 
+CRAWLED-ColeU: EPA - Emergency Water Disinfection: https://www.epa.gov/ground-water-and-drinking-water/emergency-disinfection-drinking-water 
 
 FDA - Water and Flood tips: https://www.fda.gov/food/food-safety-during-emergencies/floods-key-tips-consumers-about-food-and-water-safety 
 
