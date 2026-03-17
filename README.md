@@ -58,6 +58,8 @@ Agent: Ollama-3.2-3B (Q4_K_M) - LM Studio
 
 # Reminder of Implementation:
 
+needs chunking for the RAG implementation
+
 # Needs Development:
 
 Sets of testing questions - Insert below if you think of any solid questions. (Questions - w/Expected Answer)
@@ -66,5 +68,5 @@ Testing framework for the chatbot capability (Correctness, Comprehensiveness, an
 
 Additional sources of information Needed as determined by AI Judge (if we choose to do this method of judging)
 
-needs chunking for the RAG implementation
+
 
