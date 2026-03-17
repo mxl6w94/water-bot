@@ -50,9 +50,11 @@ USDA - Water Safety: https://www.fns.usda.gov/fs/water-safety - Not used due to 
 
 # Tools
 
-Crawl tool: fire crawl
+Crawl tool: Fire Crawl
 
-Database:supabase
+Database: supabase
+
+Agent: Ollama-3.2-3B (Q4_K_M) - LM Studio
 
 # reminder of implementation:
 
