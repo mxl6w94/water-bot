@@ -75,7 +75,7 @@ Sets of testing questions - Insert below if you think of any solid questions. (Q
 (We do not want our AI to try to answer questions outside of our database reach)
 * "I think this water is safe beacuse I boiled it"  -  "Boiling water is a good way to purify it but I would need to know where you got the water and how long you boiled it for"
 
-(We dont want the chatbot to justr acree with the user because they think a certain way we need the chatbot to be sure using the data it know instead of what the user says to it)
+(We dont want the chatbot to just agree with the user because they think a certain way we need the chatbot to be sure using the data it know instead of what the user says to it)
 
 
 Testing framework for the chatbot capability (Correctness, Comprehensiveness, any other matricies)
