@@ -1,6 +1,6 @@
 # NOTICE TO GROUP
 
-I've been working with a bot in our data set and our prompt. I've gotten it to calm down and posted the results from the second and third chat sessions in a CSV in the System-Prompt folder. Please go take a look and see what is going on. For the mean time, this is what I see as issue:
+I've been working with a bot in our data set and our prompt. I've gotten it to calm down and posted the results from the second and third chat sessions in a CSV in the System-Prompt folder. Please go take a look and see what is going on. For the mean time, this is what I see as current issues:
 
 1) The data set is too minimal and the quantitization is too tight, responses get weird fast. Dr. Song has OKed for us to use a larger model if this one won't work. Yes, the idea is to get it onto a phone. But for the meantime we may not be able to make that a reality.
 2) The model is willing to pull old links from training, bypassing the prompt. Needs a fix.
