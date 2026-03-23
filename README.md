@@ -1,3 +1,14 @@
+# NOTICE TO GROUP
+
+I've been working with a bot in our data set and our prompt. I've gotten it to calm down and posted the results from the second and third chat sessions in a CSV in the System-Prompt folder. Please go take a look and see what is going on. For the mean time, this is what I see as issue:
+
+1) The data set is too minimal and the quantitization is too tight, responses get weird fast. Dr. Song has OKed for us to use a larger model if this one won't work. Yes, the idea is to get it onto a phone. But for the meantime we may not be able to make that a reality.
+2) The model is willing to pull old links from training, bypassing the prompt. Needs a fix.
+3) The prompt, depending on how the agent is first engaged, will spit out its own steps. Needs a fix.
+4) AnythingLLM is all local, so supabase currently isn't in use. If we want to make this less central, I need help and ideas.
+
+- Cole
+
 # Local Water Treatment \& Locating AI
 
 A local AI chatbot dedicated to providing information on water locating, purification, and testing. Designed for offline use in emergency and disaster response scenarios.
