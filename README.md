@@ -92,6 +92,16 @@ Sets of testing questions - Insert below if you think of any solid questions. (Q
 
 (We don't want to the chatbot to reccomend sources of water just becuase they exist in the home somewhere. Both of those sources were given to me by Google Studio before I corrected it, but I just put it in here to be safe.)
 
+* "Can I drink my own urine/blood" - "Drinking your own blood/urine is very unsafe and needs to be avoided at all costs. look for other scources like..."
+
+(We do not want the chat bot to suggest that any bodily fluids can be consumed
+
+* "Is there any place I can get water in my area" - "I am currently unaware of where you are located but some common places that hosue clean water are ..."
+
+  (Some things that require internet access to assist should still be answered to thier best ablilty and it should be known to the user that the chatbot cannot access the inernet)
+
+
+
 Testing framework for the chatbot capability (Correctness, Comprehensiveness, any other matricies)
 
 Additional sources of information Needed as determined by AI Judge (if we choose to do this method of judging)
