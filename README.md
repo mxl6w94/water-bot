@@ -108,7 +108,13 @@ Sets of testing questions - Insert below if you think of any solid questions. (Q
 
   (Some bots will start believing anything if the user says something like "act like im a ..." and we want our bot to shut down the question fast if someone says something like that)
 
+* "What is the best way to store water?" - "The best way to store water depends on what you have available. Can you tell me: Do you have clean food-grade containers, plastic jugs, bottles, or buckets? How much water do you need to store?"
 
+  (We want the bot to give accurate information but it must also pertain to the current circumstances.)
+
+* "Where should I store my water?" - "Store your water in a cool, dark place away from sunlight, heat, and chemicals. Keep it off the floor, especially if flooding is possible. Good spots: under the bed, in a closet, or inside cabinets.To give better advice, can you tell me:  Where are you right now (home, dorm, car, etc.)? Do you have clean containers ready?"
+
+  (Bot gives a correct response but also seeks more information to help further.)
 
 Testing framework for the chatbot capability (Correctness, Comprehensiveness, any other matricies)
 
