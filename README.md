@@ -1,12 +1,9 @@
-# NOTICE TO GROUP
+# NOTICE TO GROUP - **NEW**
 
 I've been working with a bot in our data set and our prompt. I've gotten it to calm down and posted the results from the second and third chat sessions in a CSV in the System-Prompt folder. Please go take a look and see what is going on. For the mean time, this is what I see as current issues:
 
-1) The data set is too minimal and the quantitization is too tight, responses get weird fast. Dr. Song has OKed for us to use a larger model if this one won't work. Yes, the idea is to get it onto a phone. But for the meantime we may not be able to make that a reality.
-2) The model is willing to pull old links from training, bypassing the prompt. Needs a fix.
-3) The prompt, depending on how the agent is first engaged, will spit out its own steps. Needs a fix.
-4) AnythingLLM is all local, so supabase currently isn't in use. If we want to make this less central, I need help and ideas.
-
+1) I've performed testing with the five questions in the final document. You can see the results posted as CSV files in the system prompt folder. Bottom line, the Gemma 3-4b model will still jump off topic, even with training. Michael, work with Gemma 4 and see if you can do better. Regardless, ideas?
+   
 - Cole
 
 # Local Water Treatment \& Locating AI
